@@ -7,7 +7,9 @@
 ![License](https://img.shields.io/badge/License-Varies-blue)  
 ![Contributors](https://img.shields.io/badge/Contributors-Welcome-orange)  
 
-Welcome to **USAL Research**, the official GitHub home for **research-driven code** developed at USAL. This organization hosts **repositories for projects, prototypes, and tools** across AI, data science, education, business research, and more.  
+Welcome to **USAL Research**, the official GitHub home for **research-driven code** developed at USAL. This organization hosts **repositories for projects, prototypes, and tools** across AI, data science, education, business research, and more.
+
+>🔗 Institutional ROR ID: https://ror.org/05qfavd56
 
 ---
 
