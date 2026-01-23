@@ -19,6 +19,16 @@ Welcome to **USAL Research**, the official GitHub home for **research-driven cod
 
 ---
 
+## 🔬 Research at USAL
+
+Learn more about USAL’s research ecosystem and academic output:
+
+- 📌 **[Research Vision](https://usal.edu.lb/research-vision/)** 
+- 🚀 **[Research Projects](https://usal.edu.lb/research-projects/)**
+- 📚 **[Publications](https://usal.edu.lb/publications/)**
+
+---
+
 ## 👩‍💻 Contributing
 
 Contributions from USAL students, faculty, and collaborators are welcome. Check each repo’s license and **cite appropriately** when using code.  
